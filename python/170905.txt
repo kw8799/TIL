@@ -1,0 +1,15 @@
+# 2017.09.05 I learned
+
+1. python에서 for/while
+ - for 
+  반복문. 특정 횟수 등 조건을 설정해서 반복시킴
+ - while
+  반복문. 조건이 거짓이 될 때까지 반복함.
+
+2. git 입문
+  - git 기본(config)
+  - git add/commit/push + pull
+  - username.github.io
+  - git branch 만들기와 git flow 전략
+  - git 협업하기(fork와 request) 
+
